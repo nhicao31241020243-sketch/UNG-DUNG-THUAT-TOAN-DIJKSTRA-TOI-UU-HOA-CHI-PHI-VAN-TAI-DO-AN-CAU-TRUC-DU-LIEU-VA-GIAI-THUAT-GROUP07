@@ -34,14 +34,15 @@ Trong phần mềm bao gồm nhiều tỉnh khác nhau của Việt Nam như TP.
 - Vận tốc trung bình: 80 km/h 
 - Chi phí = (Quãng đường/100) x 9 x 22.700
 - *THỜI GIAN*
-Thời gian di chuyển trong đề tài phụ thuộc vào 2 yếu tố: 
-Quãng đường (km)
-Vận tốc trung bình: 80 km/h
-THỜI GIAN = S/V = QUÃNG ĐƯỜNG / 80
+- Thời gian di chuyển trong đề tài phụ thuộc vào 2 yếu tố: 
+- Quãng đường (km)
+- Vận tốc trung bình: 80 km/h
+- THỜI GIAN = S/V = QUÃNG ĐƯỜNG / 80
 - *CẠNH (TUYẾN ĐƯỜNG)*
-Trong chương trình, đồ thị được biểu diễn bằng ma trận kề adj[,] kích thước 8×8, tương ứng với 8 địa điểm (đỉnh) trong hệ thống vận tải.
+- Trong chương trình, đồ thị được biểu diễn bằng ma trận kề adj[,] kích thước 8×8, tương ứng với 8 địa điểm (đỉnh) trong hệ thống vận tải.
 - *ĐỈNH (TỈNH, THÀNH)*
-Chương trình tạo các đỉnh của đồ thị dựa trên các địa điểm vận tải, trong đó thông tin đỉnh được quản lý bởi Class SetUpGraph, trạng thái thuật toán được lưu trong Class Vertex, dữ liệu địa điểm được biểu diễn qua Class Location và hiển thị vị trí bằng Class Point. 
+- Chương trình tạo các đỉnh của đồ thị dựa trên các địa điểm vận tải, trong đó thông tin đỉnh được quản lý bởi Class SetUpGraph, trạng thái thuật toán được lưu trong Class Vertex, dữ liệu địa điểm được biểu diễn - qua Class Location và hiển thị vị trí bằng Class Point. 
+
 
 
 
