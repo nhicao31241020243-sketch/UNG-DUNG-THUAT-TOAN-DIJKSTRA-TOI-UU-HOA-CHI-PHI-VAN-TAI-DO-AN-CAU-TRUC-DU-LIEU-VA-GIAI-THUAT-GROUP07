@@ -1,7 +1,8 @@
 # ỨNG DỤNG THUẬT TOÁN DIJSTRA TỐI ƯU HÓA CHI PHÍ VẬN 
-MÃ LỚP HỌC PHẦN `22C1INF50900702`: **CẤU TRÚC DỮ LIỆU VÀ GIẢI **  
-University of Economics Ho Chi Minh City
-
+- MÃ LỚP HỌC PHẦN `25C1INF50900702` 
+- MÔN HỌC: `CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT`
+- TRƯỜNG: `ĐẠI HỌC KINH TẾ TP. HCM - UEH`
+- GIÁO VIÊN HƯỚNG DẪN: `ĐẶNG NGỌC HOÀNG THÀNH`
 ## Members / Authors
 - `31241020243` Cao Hà Nhi ([@nhicao31241020243-sketch](https://github.com/nhicao31241020243-sketch))
 - `31241027187` Nguyễn Đạt Phúc ([@datphuc0406-create](https://github.com/datphuc0406-create))
@@ -21,5 +22,6 @@ Cuối cùng, em xin cảm ơn các thành viên trong nhóm đã luôn hợp t�
 *Cao Hà Nhi*
 
 ______
+
 
 
