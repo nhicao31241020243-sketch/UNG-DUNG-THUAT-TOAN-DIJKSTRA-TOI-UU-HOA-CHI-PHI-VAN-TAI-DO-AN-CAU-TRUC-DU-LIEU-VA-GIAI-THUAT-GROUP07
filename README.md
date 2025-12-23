@@ -27,7 +27,7 @@ ______
 ## GIỚI THIỆU ỨNG DỤNG
 Trong lĩnh vực vận tải, việc lựa chọn lộ trình hợp lý có ảnh hưởng trực tiếp đến chi phí di chuyển. Mục tiêu bài toán đặt ra là xác định lộ trình có tổng chi phí vận tải thấp nhất trong số các lộ trình khả thi. 
 ## *HỆ THỐNG VẬN TẢI*
-- Trong phần mềm bao gồm nhiều tỉnh khác nhau của Việt Nam như TP.HCM, Đồng Nai, Tây Ninh, Vĩnh Long, Đồng Tháp, Cần Thơ, An Giang, Cà Mau.
+- Trong phần mềm bao gồm 8 tỉnh khác nhau của Việt Nam: TP.HCM, Đồng Nai, Tây Ninh, Vĩnh Long, Đồng Tháp, Cần Thơ, An Giang, Cà Mau.
 ## *CHI PHÍ*
 - Hiệu suất nhiên liệu: 9 lít / 100 km
 - Giá xăng hiện hành: 22,700 VNĐ/lít
@@ -42,6 +42,7 @@ Trong lĩnh vực vận tải, việc lựa chọn lộ trình hợp lý có ả
 - Trong chương trình, đồ thị được biểu diễn bằng ma trận kề adj[,] kích thước 8×8, tương ứng với 8 địa điểm (đỉnh) trong hệ thống vận tải.
 ## *ĐỈNH (TỈNH, THÀNH)*
 - Chương trình tạo các đỉnh của đồ thị dựa trên các địa điểm vận tải, trong đó thông tin đỉnh được quản lý bởi Class SetUpGraph, trạng thái thuật toán được lưu trong Class Vertex, dữ liệu địa điểm được biểu diễn - qua Class Location và hiển thị vị trí bằng Class Point. 
+
 
 
 
